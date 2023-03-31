@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @carlzone
-- 👀 I’m interested in building websites from ground up or just parts a page of it. Also I'm into compiling animations using css for more visual attraction on website.
-- 🌱 I’m currently learning reactjs and nodejs as I'm originally a PHP web dev that uses a PHP framework CodeIgniter 3. I'm also trying absorb all the things I have lern on
-WebRTC for real-time communication since I'm trying to figure out why some device wont display the camera. But well that's what makes programming fun.
-- 💞️ I’m looking to collaborate on creating PHP x NodeJS since PHP is not a good tool for creating a video chat but got foundation in data management keeping.
-- 📫 How to reach me is via gmail account carlson.cascara@gmail.com.
+Hello, my name is Carlson!
 
-<!---
-carlzone/carlzone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an advanced beginner in the field of AI Machine Learning and RPA (Robotic Processing Automation). My current focus is on using Python to develop cutting-edge projects, such as GPT-3.5 and Tensorflow Personal Developer Assistant. 
+
+My past interests have revolved around web development, where I have gained proficiency in programming languages like Python, C#, C, C++, and SQL. I also have extensive knowledge in scripting languages like Bash and Javascript.
+
+With 3 years of experience, I am passionate about coding and constantly learning. My goal is to continue expanding my horizons in technology and using my expertise to make a difference in the world.
